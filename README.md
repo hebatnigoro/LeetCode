@@ -136,4 +136,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/hebatnigoro/LeetCode/tree/master/0141-linked-list-cycle) |
+## Database
+|  |
+| ------- |
+| [0182-duplicate-emails](https://github.com/hebatnigoro/LeetCode/tree/master/0182-duplicate-emails) |
 <!---LeetCode Topics End-->
